@@ -1,6 +1,4 @@
-# ele-vue2.0
-
-> sell app
+# 虾米音乐播放器
 
 ## Build Setup
 
